@@ -12,20 +12,46 @@ Python (Django Framework)
 HTML, CSS, Bootstrap
 SQLite Database
 Django Templates
-⚙️ Installation & Setup
-Clone the repository
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+```
 git clone https://github.com/your-username/BookMyTable.git
-Navigate to project folder
+```
+
+2. Navigate to project folder
+
+```
 cd BookMyTable
-Create virtual environment
+```
+
+3. Create virtual environment
+
+```
 python3.11 -m venv venv
 source venv/bin/activate
-Install dependencies
+```
+
+4. Install dependencies
+
+```
 pip install -r requirements.txt
-Run migrations
+```
+
+5. Run migrations
+
+```
 python manage.py migrate
-Start server
+```
+
+6. Start server
+
+```
 python manage.py runserver
+```
+
+---
 🌐 Run the Project
 Open in browser: http://127.0.0.1:8000
 
