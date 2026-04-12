@@ -73,7 +73,7 @@ http://127.0.0.1:8000
 
 ## 👨‍💻 Team Members
 
-* DIVYANSH DWIVEDI (S24CSEU0854)
+* Divyansh Dwivedi (S24CSEU0854)
 * Darsh Jasoria (S24CSEU0844)
 * Mahak Soni (S24CSEU2741)
 * Dev Nirwan (S24CSEU0835)
