@@ -31,9 +31,13 @@ Open in browser: http://127.0.0.1:8000
 
 👨‍💻 Team Members
 Divyansh Dwivedi (S24CSEU0854)
+
 Darsh Jasoria (S24CSEU0844)
+
 Mahak Soni (S24CSEU2741)
+
 Dev Nirwan (S24CSEU0835)
+
 📌 Note
 This project was developed as part of academic learning to understand full-stack web development using Django.
 
